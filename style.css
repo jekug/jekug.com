@@ -1,0 +1,54 @@
+body{
+  background-color: white;
+}
+
+body{
+  text-align: center
+}
+
+a { color: white; }
+
+header{
+  background-color: black;
+
+}
+
+h7{
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+  font-family: 'Gugi', cursive;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Nanum Gothic Coding', monospace;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+h4{
+  font-family: 'Noto Sans KR', sans-serif;
+  text-align: center;
+}
+
+h5{
+  font-family: 'Noto Sans KR', sans-serif;
+  text-align: center;
+}
+
+h6{
+  font-family: 'Noto Sans KR', sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: 'Gugi', cursive;
+  text-align: center;
+}
