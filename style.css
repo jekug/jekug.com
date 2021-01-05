@@ -1,0 +1,28 @@
+header{
+  text-align: center;
+  color: black;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+footer{
+  background-color: lightgray;
+  color: black;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+p{
+font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+
+h7{
+ color: black;
+}
+
+a { color: black; }
+
